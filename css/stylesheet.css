@@ -1,0 +1,583 @@
+
+
+/* CSS - PAGINA 1 */
+
+
+/* Modifica tudo dentro do body */
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: 	#000000;
+}
+
+
+
+
+
+
+/* modifica div_1 */
+div#div_1{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 0%;
+    background-image: url(imagens/Fundo_div_1.jpg); /* Fundo escuro com personagens */
+}
+
+/* Modifica todas as Imagens */
+img{
+
+   margin: auto;
+}
+
+/* Modifica img_1 */
+img#img_1{
+
+    margin-left: 42.45%;
+    margin-top: 1%;
+    width: 185px;
+
+}
+
+
+/* Modifica h1_1 */
+h1#Sobre{
+    font-size: 40px;
+    margin-right: 81%;
+    position: absolute;
+
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 1px #000000;
+    
+} 
+
+/* Modifica primeiro paragrafo */
+p#p_1{
+    margin-right: 10%;
+    margin-top: 7%;
+    padding-left: 5%;
+    font-size: 20px;
+    }
+
+
+
+
+
+
+    /* Editando Div_2 */
+    div#div_2{
+        padding-right: 10%;
+        background-image: url(imagens/Natalina.jpg);
+        display: flex;
+        justify-content: space-around;
+    }
+
+
+    /* Modifica img_2 */
+img#img_2{
+
+    padding-left: 25%;
+    padding-bottom: 0%;
+    width: 300px;
+
+}
+
+
+
+
+
+/* Modifica div_3 */
+div#div_3{
+    text-align: justify;
+    background-color: #6d6d6d;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin-right: 0%;
+    margin-top: 0%; /* subistitui o br */
+    
+
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+/* Editando Div_4 */
+
+div#div_4{
+
+    background-color: #A9A9A9;
+    margin-top: 0%;
+    padding-bottom: 6%;
+    
+
+}
+
+
+/* Modifica hr_2 */
+hr#hr_2{
+
+    margin-top: 0%;
+
+}
+
+
+/* Modifica h1_Conteudo */
+h1#Conteudos{
+
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 1px #000000;
+
+}
+
+
+
+
+
+div#div_5{
+    background-image: url(imagens/Fundo_Vermelho.jpg);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-bottom: 7%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+
+}
+
+figcaption{
+    color: #fff;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+ul#ul_1{
+    
+    list-style: none;
+    display:flex;
+    justify-content: space-around;
+    padding-right: 40px;
+    padding-top: 5%;
+
+}
+
+
+
+/* Imagem muda ao Passar do mouse */
+
+figcaption{
+   
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+
+figure, figure img{
+    width: 240px;
+    height: 310px;
+
+}
+
+figure#fig1{
+    background-image: url(imagens/goku.jpg);
+}
+
+figure#fig1:hover{
+
+    background-image: url(imagens/Saitama.jpg);
+}
+
+
+figure#fig2{
+
+    background-image: url(imagens/Rick_Grimes.jpg);
+
+}
+
+figure#fig2:hover{
+    background-image: url(imagens/Deadpool.jpg);
+
+}
+
+figure#fig3{
+
+    background-image: url(imagens/Kratos.jpg);
+
+}
+
+figure#fig3:hover{
+
+    background-image: url(imagens/Shang_Tsung.jpg);
+}
+
+hr#hr_3{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+
+
+
+
+div#div_6{
+    display: flex;
+    margin-top: 0%;
+    color: #FFFAFA;
+    background-color: rgb(15, 15, 15);
+
+}
+
+img#img_3{
+
+    width: 170px;
+    height: 170px;
+    margin-left: 30%;
+    margin-top: 30%;
+    margin-bottom: 30%;
+
+}
+
+
+
+
+
+div#div_7{
+
+    
+    margin-top: 4%;
+    margin-right: 0%;
+    margin-left: 0%;
+    padding-right: 55%;
+
+}
+
+h3#h3_2{
+    text-align: center;
+    position: absolute;
+    margin-left: 36%;
+
+    color: #fff;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+p#p_2{
+    text-align: center;
+    position: absolute;
+    margin-right:30%;
+    margin-left: 10%;
+    margin-top: 6%;
+    padding-left: 8%;
+    
+
+    color: #fff;
+    
+    }
+
+
+
+
+
+div#div_8{
+    
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 13%;
+    margin-top: 5%;
+    
+    
+}
+
+
+h3#h3_1{
+    position: absolute;
+    margin: auto;
+    margin-right: 0%;
+
+    color: #fff;
+    text-shadow: 1px 1px 1px #000000;
+    
+    
+}
+
+
+img#facebook{
+    
+    position: absolute;
+    margin-left: 1.7%;
+    margin-top: 3%;
+    width: 40px;
+    height: 40px;
+    
+}
+img#instagram{
+
+    position: absolute;
+    margin-left: 1.7%;
+    margin-top: 7%;
+    width: 40px;
+    height: 40px;
+}
+
+img#github{
+
+    position: absolute; /* faz com que essa imagem atravesse a outra */
+    margin-left: 1.7%; /**/
+    margin-top: 11%; /**/
+    width: 40px; /* Autera a largura da imagem */
+    height: 40px; /* Autera a altura da imagem */
+}
+
+
+
+
+
+
+
+
+/* CSS - PAGINA 2 */
+
+
+
+
+/* Edição da Logotipo | Fundo escuro */
+div#logo_pg2{ 
+    margin-top: 0%;
+    padding-top: 0%;
+    background-image: url(imagens/Fundo_div_1.jpg); /* Fundo escuro */
+
+}
+
+
+/* Edição da Imagem Nerd-King */
+img#logo1_pg2{
+    margin-left: 42.45%;
+    margin-top: 1%;
+    margin-bottom: 0%;
+    width: 185px;
+    }
+
+
+/* Edição de noticias */
+div#div_1_pg2{
+    background-color: #6d6d6d; /* Muda a cor dessa div */
+    margin-top: 0%;  /* expande uma parte da div_logo para baixo */
+    padding-top: 1%; /* Coloca a Palavra animes um pouco para baixo */
+    padding-bottom: 8%; /* Expande a div para baixo */
+
+    
+}
+
+/* Edição do h1_1 */
+h1#h1_1_pg2{
+    
+    text-align: center;  /* alinha o h1 */
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 1px #000000;
+
+}
+
+div#div_2_pg2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(imagens/fundo_pg2.jpg);
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+
+    
+
+}
+
+.img{
+    border-radius: 10px;
+
+}
+
+/* Configuração dos slides */
+
+.slider{
+    width: 895px;
+    height: 530px;
+    overflow: hidden; /* Se o elemento ultrapassar a altura e a largura definida ele não será mostrado */
+
+}
+
+.slides{
+    display: flex;
+    width: 400%;
+    height: 100%;
+
+}
+
+.slide{
+    width: 25%;
+    transition: 0.5s;
+
+}
+
+
+
+#radio1:checked ~ .first{
+    margin-left: 0;
+
+}
+
+#radio2:checked ~ .first {
+    margin-left: -25%;
+
+}
+
+#radio3:checked ~ .first {
+    margin-left: -50%;
+
+}
+
+#radio4:checked ~ .first {
+    margin-left: -75%;
+
+}
+
+
+.navigation-bar{
+
+    position: absolute;
+    bottom: -225px; /* Movimentar os botões para baixo */
+
+    display: flex;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+input{
+    display: none;
+
+}
+
+.manual-btn{
+    border: 2px solid #fff;
+
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.manual-btn:not(:last-child){
+    margin-right: 25px;
+}
+
+.manual-btn:hover{
+    background: #fff; /* Ao passar o mouse por cima vai receber uma cor branca */
+    transition: 0.4s; /* o tempo de transição da cor branca */
+
+}
+
+
+
+
+
+/* Editando o restante da página 2 */
+
+div#div_3_pg2{
+    background-color: #A9A9A9;
+    margin-top: 0%;
+    padding-bottom: 72%;
+
+}
+
+hr{
+    margin-top: 0%;
+}
+
+div#img_1_pg2{
+
+margin-top: 3%;
+margin-left: 7%;
+position: absolute;
+
+
+
+}
+
+img#img_1_pg2{
+    border-radius: 10px;
+}
+
+div#img_2_pg2{
+    position: absolute;
+    margin-left: 49%;
+    margin-top: 3%;
+    
+}
+
+img#img_2_pg2{
+    border-radius: 10px;
+}
+
+div#img_3_pg2{
+     position: absolute;
+     margin-left: 49%;
+     margin-top: 23%;
+}
+
+img#img_3_pg2{
+    border-radius: 10px;
+}
+
+div#img_4_pg2{
+    position: absolute;
+    margin-top: 46%;
+    margin-left: 4%;
+}
+
+img#img_4_pg2{
+    border-radius: 10px;
+}
+
+
+div#img_5_pg2{
+    position: absolute;
+    margin-top: 46%;
+    margin-left: 26%;
+
+}
+
+img#img_5_pg2{
+    border-radius: 10px;
+}
+
+div#img_6_pg2{
+    position: absolute;
+    margin-top: 46%;
+    margin-left: 48%;
+
+}
+
+img#img_6_pg2{
+    border-radius: 10px;
+}
+
+div#img_7_pg2{
+    position: absolute;
+    margin-top: 46%;
+    margin-left: 70%;
+}
+
+img#img_7_pg2{
+    border-radius: 10px;
+}
+
+
+
+/* CSS - PAGINA 3 */
+
